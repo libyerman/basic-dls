@@ -1,0 +1,7 @@
+all_variables/
+old2/
+oldResponses/
+cert.pem
+key.pem
+setting*.js
+node_modules/

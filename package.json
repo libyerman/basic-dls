@@ -1,0 +1,35 @@
+{
+  "name": "dls",
+  "version": "1.0.0",
+  "description": "Basic DLS for OpenStage devices to upgrade their firmware and do some configuration",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concat-stream": "^2.0.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-xml-bodyparser": "^0.3.0",
+    "request": "^2.88.0",
+    "xml2js": "^0.4.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decontamin4t0R/basic-dls.git"
+  },
+  "keywords": [
+    "dls",
+    "openstage",
+    "unify",
+    "siemens"
+  ],
+  "author": "decontamin4t0R",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/decontamin4t0R/basic-dls/issues"
+  },
+  "homepage": "https://github.com/decontamin4t0R/basic-dls#readme"
+}
