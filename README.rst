@@ -1,8 +1,8 @@
 Install
 
   #git clone https://github.com/decontamin4t0R/basic-dls.git
-  
-  #node install
+  #cd basic-dls
+  #npm install
 
 Create cert
 
