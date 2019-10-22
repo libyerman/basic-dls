@@ -1,7 +1,9 @@
 Install
 
   #git clone https://github.com/decontamin4t0R/basic-dls.git
+  
   #cd basic-dls
+  
   #npm install
 
 Create cert
@@ -11,6 +13,7 @@ Create cert
 Edit index.js
 
   #key: fs.readFileSync('/etc/apache2/ssl/server.key'),
+  
   #cert: fs.readFileSync('/etc/apache2/ssl/server.crt'),
 
 Create template and change parametres 
